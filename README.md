@@ -135,9 +135,7 @@ The Tableau dashboard provides an interactive and accessible way to explore thes
 
 ## 🔗 Tableau Public Dashboard
 
-**View the Interactive Dashboard:**
-`https://public.tableau.com/authoring/BATask13/RevenuebyIndustry/Dashboard%201#1`
-
+📊 [View Interactive Tableau Dashboard](https://public.tableau.com/authoring/BATask13/RevenuebyIndustry/Dashboard%201#1)
 ---
 
 ## 🛠️ Tools Used
